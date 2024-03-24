@@ -1,6 +1,10 @@
 # ICT2214-WebSecurity
 Repository for scripts in Assignment 1 in partial fulfillment for ICT2214 Web Security
 
+## .Har files
+These are the .har files of APKs that are found to have transmitted personal data to domains. 
+You can download Reqable to open the .har files and analyze the network traffic within these files.
+
 ## Scripts
 These Python scripts are created for Phase 2: Static Analysis
 
