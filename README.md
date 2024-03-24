@@ -2,7 +2,7 @@
 Repository for scripts in Assignment 1 in partial fulfillment for ICT2214 Web Security
 
 ## Scripts
-These Python scripts are created for Phase 2: Static Analysis of the Project
+These Python scripts are created for Phase 2: Static Analysis
 
 To use full_static_scan.py, change the target directory where all APKs are located and set a target directory to store all the text files.
 
