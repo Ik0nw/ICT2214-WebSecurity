@@ -24,3 +24,5 @@ Run the script using the following command:
 python3 sensitive_finding.py
 ```
 
+# Author
+Ik0nw
